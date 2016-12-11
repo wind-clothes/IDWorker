@@ -1,4 +1,4 @@
-package cc.uworks.reactor.idmaker;
+package com.hunk.idworker;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
